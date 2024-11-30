@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on **SEHAT**  
 - 🌱 I’m currently learning **Flutter**  
 - 👯 I’m looking to collaborate on **App Development Projects**  
-- 🤝 I’m looking for help with **Backend Management**  
+- 🤝 I’m looking for help with **AI/ML and Backend Management**  
 - 💬 Ask me about **DSA, JAVA, Latex, OOP and Git/GitHub**  
 - 📫 How to reach me: **archisman.sroy2003@gmail.com**  
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/drive/folders/1uqmJAZkSaKE79RQVIBvg4Nxz6wrD808Y?usp=sharing)  
