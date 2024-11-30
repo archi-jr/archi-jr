@@ -51,7 +51,7 @@
 <a href="https://stackoverflow.com/users/19815032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19815032" height="30" width="40" /></a>
 <a href="https://instagram.com/archi_jr006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="archi_jr006" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/archisman_jr" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="archisman_jr" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/archisman sinha roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="archisman sinha roy" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/archisman sinha roy](https://leetcode.com/u/user7916bt/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="archisman sinha roy" height="30" width="40" /></a>
 </p>
 </div>
 
