@@ -104,8 +104,8 @@
   <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> 
   </a> 
-  <a href="#" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hadoop_logo.svg/512px-Hadoop_logo.svg.png" alt="hadoop (Image Not Found)" width="40" height="40"/> 
+ <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/3/38/Apache_Hadoop_logo.svg](https://www.google.com/imgres?q=hadoop%20logo&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F38%2FHadoop_logo_new.svg%2F2500px-Hadoop_logo_new.svg.png&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHadoop_logo_new.svg&docid=BS86xLybTnbMBM&tbnid=xpZCG28RQGuq9M&vet=12ahUKEwjGr_DVxISLAxVNcGwGHaiqEssQM3oECGUQAA..i&w=2500&h=750&hcb=2&ved=2ahUKEwjGr_DVxISLAxVNcGwGHaiqEssQM3oECGUQAA)" alt="Hadoop" width="40" height="40"/> 
   </a> 
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/> 
