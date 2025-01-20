@@ -105,13 +105,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> 
   </a> 
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" width="400" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="Hadoop" width="100" height="40"/> 
   </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/> 
   </a> 
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.latex-project.org/img/latex-project-logo.svg" alt="latex" width="400" height="40"/> 
+    <img src="https://www.latex-project.org/img/latex-project-logo.svg" alt="latex" width="100" height="40"/> 
   </a> 
 </p>
 
