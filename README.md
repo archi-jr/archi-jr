@@ -25,7 +25,7 @@
 - 💬 Ask me about **DSA, JAVA, Latex, OOP and Git/GitHub**  
 - 📫 How to reach me: **archisman.sroy2003@gmail.com**  
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1LLIfzBiarP2GaGD1gCR7b2LxF5MOqQGJ/view?usp=sharing) 
-- ⚡ Fun fact: I am passionate about **the Cosmos**! 🌌  
+- ⚡ Fun fact: I am passionate about **the Cosmos**! 🌌  Also, I teach DSA concepts.
 
 ---
 ### 🛠️ My Skills:
