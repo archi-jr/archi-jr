@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
   <h1>Hi there, I'm Archisman SinhaRoy! 👨‍💻</h1>
-  <h3>A Passionate App Developer from India 🚀</h3>
+  <h3>A Passionate App Developer and AI/ML enthusiast from India 🚀</h3>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BwcTZpbnlmcjByMnl4NWNvMHk5dzA1MzIwY2Rsb2h5MWNhN2RoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="600">
 </div>
 
