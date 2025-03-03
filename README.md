@@ -25,7 +25,7 @@
 - 💬 Ask me about **DSA, JAVA, Latex, OOP and Git/GitHub**  
 - 📫 How to reach me: **archisman.sroy2003@gmail.com**  
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1LLIfzBiarP2GaGD1gCR7b2LxF5MOqQGJ/view?usp=sharing) 
-- ⚡ Fun fact: I am passionate about **the Cosmos**! 🌌  Also, I teach DSA concepts.
+- ⚡ Fun fact: I am passionate about **the Cosmos**! 🌌 I like to keep my workspace clean and organised.  Also, I teach DSA concepts.
 
 ---
 ### 🛠️ My Skills:
@@ -127,7 +127,7 @@
 
 ### 🔗 Let's Connect:
 <p align="left">
-<a href="https://www.linkedin.com/in/archisman-sinharoy-869826273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archisman sinharoy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/archisman-sroy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archisman sinharoy" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19815032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19815032" height="30" width="40" /></a>
 <a href="https://instagram.com/archi_jr006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="archi_jr006" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/archisman_jr" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" alt="archisman_jr" height="30" width="40" /></a>
