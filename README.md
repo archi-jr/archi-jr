@@ -24,7 +24,7 @@
 - 🤝 I’m looking for help with **AI/ML and Backend Management**  
 - 💬 Ask me about **DSA, JAVA, Latex, OOP and Git/GitHub**  
 - 📫 How to reach me: **archisman.sroy2003@gmail.com**  
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1RjIvJlOxkx3p_FnT7pyJfatW2Kx-KP3P/view?usp=sharing) 
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1SGwIH8ovcDnxEPHFbh8xUg9CuxJDSCVI/view?usp=sharing) 
 - ⚡ Fun fact: I am passionate about **the Cosmos**! 🌌 I like to keep my workspace clean and organised.  Moreover, I teach DSA concepts.
 
 ---
